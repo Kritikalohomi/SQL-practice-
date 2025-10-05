@@ -1,5 +1,5 @@
 /*
-Weather Observation Station  11
+Weather Observation Station  10
 Problem : https://www.hackerrank.com/challenges/weather-observation-station-10/problem?isFullScreen=true
 Difficulty :  Easy*/
 SET NOCOUNT ON;
